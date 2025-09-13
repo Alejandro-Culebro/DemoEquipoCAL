@@ -51,4 +51,16 @@ body{
             height:  auto;
             display: block;
         }
+        #contenedorPrincipal{
+            max-width:  1024px;
+            margin: 2rem auto;
+            padding: 2rem;
+            border: 1rem;
+            border-radius: 10px;
+            border-color: blue;
+            border-style: solid;
         
+
+            box-shadow: 5px 5px 21px rgba(0, 0, 0, 0.76);
+            background-image: url('../img/gettyimages-583692312-612x612.jpg');
+        }
